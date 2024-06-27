@@ -1,0 +1,351 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "BertTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BertModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2Model",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "PythonExporter",
+        "importPath": "nbconvert",
+        "description": "nbconvert",
+        "isExtraImport": true,
+        "detail": "nbconvert",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "pack_padded_sequence",
+        "importPath": "torch.nn.utils.rnn",
+        "description": "torch.nn.utils.rnn",
+        "isExtraImport": true,
+        "detail": "torch.nn.utils.rnn",
+        "documentation": {}
+    },
+    {
+        "label": "pad_packed_sequence",
+        "importPath": "torch.nn.utils.rnn",
+        "description": "torch.nn.utils.rnn",
+        "isExtraImport": true,
+        "detail": "torch.nn.utils.rnn",
+        "documentation": {}
+    },
+    {
+        "label": "extract_data",
+        "importPath": "DataExtraction",
+        "description": "DataExtraction",
+        "isExtraImport": true,
+        "detail": "DataExtraction",
+        "documentation": {}
+    },
+    {
+        "label": "BERT_EXPERIMENT",
+        "importPath": "BERTModel",
+        "description": "BERTModel",
+        "isExtraImport": true,
+        "detail": "BERTModel",
+        "documentation": {}
+    },
+    {
+        "label": "GPT_EXPERIMENT",
+        "importPath": "GPTModel",
+        "description": "GPTModel",
+        "isExtraImport": true,
+        "detail": "GPTModel",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_EXPERIMENT",
+        "importPath": "LSTMModel",
+        "description": "LSTMModel",
+        "isExtraImport": true,
+        "detail": "LSTMModel",
+        "documentation": {}
+    },
+    {
+        "label": "BibleDataset",
+        "kind": 6,
+        "importPath": "BERTModel",
+        "description": "BERTModel",
+        "peekOfCode": "class BibleDataset(Dataset):\n    '''\n    Parameters:\n        data (DataFrame): DataFrame with verse text and labels\n        tokenizer (BertTokenizer): Tokenizer to convert verse text to input IDs and attention mask\n        max_len (int): Maximum sequence length\n    '''\n    def __init__(self, data, tokenizer, max_len):\n        self.data = data\n        self.tokenizer = tokenizer",
+        "detail": "BERTModel",
+        "documentation": {}
+    },
+    {
+        "label": "BibleClassifier",
+        "kind": 6,
+        "importPath": "BERTModel",
+        "description": "BERTModel",
+        "peekOfCode": "class BibleClassifier(torch.nn.Module):\n    def __init__(self):\n        super(BibleClassifier, self).__init__()\n        self.bert = BertModel.from_pretrained('bert-base-uncased')\n        self.dropout = torch.nn.Dropout(0.1)\n        self.classifier = torch.nn.Linear(self.bert.config.hidden_size, 4)\n    def forward(self, input_ids, attention_mask):\n        outputs = self.bert(input_ids, attention_mask=attention_mask)\n        pooled_output = outputs.pooler_output\n        pooled_output = self.dropout(pooled_output)",
+        "detail": "BERTModel",
+        "documentation": {}
+    },
+    {
+        "label": "BERT_EXPERIMENT",
+        "kind": 2,
+        "importPath": "BERTModel",
+        "description": "BERTModel",
+        "peekOfCode": "def BERT_EXPERIMENT(df):\n    torch.manual_seed(0)\n    np.random.seed(0)\n    random.seed(0)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')\n    # Split the data into training and validation sets\n    train_text, val_text, train_labels, val_labels = train_test_split(df['verse'], df['label'], test_size=0.2, stratify=df['label'], random_state=0)\n    train_data = pd.DataFrame({'verse': train_text, 'label': train_labels})\n    val_data = pd.DataFrame({'verse': val_text, 'label': val_labels})",
+        "detail": "BERTModel",
+        "documentation": {}
+    },
+    {
+        "label": "parse_xml",
+        "kind": 2,
+        "importPath": "DataExtraction",
+        "description": "DataExtraction",
+        "peekOfCode": "def parse_xml(file_path):\n    tree = ET.parse(file_path)\n    root = tree.getroot()\n    data = {}\n    for book in root.findall('.//b'):\n        book_name = book.get('n')\n        if book_name in ['Matthew', 'Mark', 'Luke', 'John']:\n            data[book_name] = {}\n            for chapter in book.findall('.//c'):\n                chapter_num = int(chapter.get('n'))",
+        "detail": "DataExtraction",
+        "documentation": {}
+    },
+    {
+        "label": "extract_data",
+        "kind": 2,
+        "importPath": "DataExtraction",
+        "description": "DataExtraction",
+        "peekOfCode": "def extract_data():\n    translations_dir = 'translations'\n    data = {}\n    for file_name in os.listdir(translations_dir):\n        if file_name.endswith('.xml'):\n            file_path = os.path.join(translations_dir, file_name)\n            translation_name = os.path.splitext(file_name)[0]\n            data[translation_name] = parse_xml(file_path)\n    return data",
+        "detail": "DataExtraction",
+        "documentation": {}
+    },
+    {
+        "label": "root_dir",
+        "kind": 5,
+        "importPath": "generate_requirements",
+        "description": "generate_requirements",
+        "peekOfCode": "root_dir = os.getcwd()\npy_files = []\n# Traverse through directories and subdirectories\nfor root, dirs, files in os.walk(root_dir):\n    for file in files:\n        if file.endswith('.ipynb'):\n            # Get the full path of the .ipynb file\n            ipynb_file = os.path.join(root, file)\n            # Convert .ipynb to .py\n            py_exporter = PythonExporter()",
+        "detail": "generate_requirements",
+        "documentation": {}
+    },
+    {
+        "label": "py_files",
+        "kind": 5,
+        "importPath": "generate_requirements",
+        "description": "generate_requirements",
+        "peekOfCode": "py_files = []\n# Traverse through directories and subdirectories\nfor root, dirs, files in os.walk(root_dir):\n    for file in files:\n        if file.endswith('.ipynb'):\n            # Get the full path of the .ipynb file\n            ipynb_file = os.path.join(root, file)\n            # Convert .ipynb to .py\n            py_exporter = PythonExporter()\n            (py_code, _) = py_exporter.from_filename(ipynb_file)",
+        "detail": "generate_requirements",
+        "documentation": {}
+    },
+    {
+        "label": "BibleDataset",
+        "kind": 6,
+        "importPath": "GPTModel",
+        "description": "GPTModel",
+        "peekOfCode": "class BibleDataset(Dataset):\n    def __init__(self, data, tokenizer, max_len):\n        self.data = data\n        self.tokenizer = tokenizer\n        self.max_len = max_len\n    def __len__(self):\n        return len(self.data)\n    def __getitem__(self, idx):\n        verse = self.data.iloc[idx, 0]\n        label = self.data.iloc[idx, 1]",
+        "detail": "GPTModel",
+        "documentation": {}
+    },
+    {
+        "label": "BibleClassifier",
+        "kind": 6,
+        "importPath": "GPTModel",
+        "description": "GPTModel",
+        "peekOfCode": "class BibleClassifier(torch.nn.Module):\n    def __init__(self):\n        super(BibleClassifier, self).__init__()\n        self.gpt2 = GPT2Model.from_pretrained('gpt2')\n        self.dropout = torch.nn.Dropout(0.1)\n        self.classifier = torch.nn.Linear(self.gpt2.config.n_embd, 4)\n    def forward(self, input_ids, attention_mask):\n        outputs = self.gpt2(input_ids, attention_mask=attention_mask)\n        last_hidden_state = outputs.last_hidden_state\n        pooled_output = last_hidden_state[:, -1, :]",
+        "detail": "GPTModel",
+        "documentation": {}
+    },
+    {
+        "label": "GPT_EXPERIMENT",
+        "kind": 2,
+        "importPath": "GPTModel",
+        "description": "GPTModel",
+        "peekOfCode": "def GPT_EXPERIMENT():    \n    torch.manual_seed(0)\n    np.random.seed(0)\n    random.seed(0)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    tokenizer = GPT2Tokenizer.from_pretrained('gpt2')\n    tokenizer.pad_token = tokenizer.eos_token\n    train_text, val_text, train_labels, val_labels = train_test_split(df['verse'], df['label'], test_size=0.2, stratify=df['label'], random_state=0)\n    train_data = pd.DataFrame({'verse': train_text, 'label': train_labels})\n    val_data = pd.DataFrame({'verse': val_text, 'label': val_labels})",
+        "detail": "GPTModel",
+        "documentation": {}
+    },
+    {
+        "label": "BibleDataset",
+        "kind": 6,
+        "importPath": "LSTMModel",
+        "description": "LSTMModel",
+        "peekOfCode": "class BibleDataset(Dataset):\n    def __init__(self, data, max_len):\n        self.data = data\n        self.max_len = max_len\n        self.vocab = self.build_vocab(data['verse'])\n        self.vocab_size = len(self.vocab)\n    def build_vocab(self, verses):\n        vocab = set()\n        for verse in verses:\n            for word in verse.split():",
+        "detail": "LSTMModel",
+        "documentation": {}
+    },
+    {
+        "label": "BibleClassifier",
+        "kind": 6,
+        "importPath": "LSTMModel",
+        "description": "LSTMModel",
+        "peekOfCode": "class BibleClassifier(torch.nn.Module):\n    def __init__(self, embedding_dim, hidden_dim, output_dim, dropout, vocab_size):\n        super(BibleClassifier, self).__init__()\n        self.embedding = nn.Embedding(vocab_size, embedding_dim)\n        self.lstm = nn.LSTM(embedding_dim, hidden_dim, num_layers=1, batch_first=True, bidirectional=True)\n        self.dropout = nn.Dropout(dropout)\n        self.fc = nn.Linear(hidden_dim*2, output_dim)\n    def forward(self, input_ids):\n        embedding_out = self.embedding(input_ids)\n        packed_out = pack_padded_sequence(embedding_out, torch.count_nonzero(input_ids, dim=1).cpu(), batch_first=True, enforce_sorted=False)",
+        "detail": "LSTMModel",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM_EXPERIMENT",
+        "kind": 2,
+        "importPath": "LSTMModel",
+        "description": "LSTMModel",
+        "peekOfCode": "def LSTM_EXPERIMENT():    \n    torch.manual_seed(0)\n    np.random.seed(0)\n    random.seed(0)\n    device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n    train_text, val_text, train_labels, val_labels = train_test_split(df['verse'], df['label'], test_size=0.2, stratify=df['label'], random_state=0)\n    train_data = pd.DataFrame({'verse': train_text, 'label': train_labels})\n    val_data = pd.DataFrame({'verse': val_text, 'label': val_labels})\n    train_dataset = BibleDataset(train_data, 512)\n    val_dataset = BibleDataset(val_data, 512)",
+        "detail": "LSTMModel",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Main",
+        "description": "Main",
+        "peekOfCode": "def main():\n    data = extract_data()\n    books = ['Matthew', 'Mark', 'Luke', 'John']\n    verses = []\n    labels = []\n    for book in books:\n        for chapter in data['ESV'][book]:\n            for verse in data['ESV'][book][chapter]:\n                verses.append(data['ESV'][book][chapter][verse])\n                labels.append(books.index(book))",
+        "detail": "Main",
+        "documentation": {}
+    }
+]
